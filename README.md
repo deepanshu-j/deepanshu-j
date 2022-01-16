@@ -60,8 +60,9 @@
 ***
 
 <br />
-
+<!--
 <p align="center" display="none"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/deepanshu-j/count.svg" />
 </p>
+-->
