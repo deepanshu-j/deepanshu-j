@@ -1,8 +1,8 @@
 <h2 align="center">/** Hi there 👋 , I'm <a href="#">Deepanshu</a> */ </h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/deepanshu-johar/">Linkedin</a> •
-  <a href="https://www.instagram.com/deepanshu_johar/">Instagram</a> •
-  <a href="https://twitter.com/DeepanshuJohar2/">Twitter</a> •
+<!--   <a href="https://www.instagram.com/deepanshu_johar/">Instagram</a> • -->
+<!--   <a href="https://twitter.com/DeepanshuJohar2/">Twitter</a> • -->
   <a href="https://leetcode.com/deepanshu_johar/">Leetcode</a> •
   <a href="https://www.codechef.com/users/unleashed2018/">Codechef</a> • 
   <a href="https://www.hackerrank.com/deepanshujohar46/">Hackerrank</a>
