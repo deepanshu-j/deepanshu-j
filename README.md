@@ -16,7 +16,7 @@
 <!-- - 👨🏽‍💻  I’m currently working on something cool :wink:. -->
 - <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>Prefinal year undergraduate student at <a href="http://ipu.ac.in/usict/">University School of Information, Communication and Technology</a>
 - 🌱  I’m currently learning about Deep Learning and CNN's. 
-- 💬  Ask me about Full Stack Development and Deep Learning.  
+- 💬  Ask me about Full Stack Development( javaScript, React, Node, and Docker ) and Deep Learning.  
 - 📫  How to reach me: deepanshujohar46@gmail.com.
 
 ***
